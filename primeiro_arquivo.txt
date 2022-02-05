@@ -1,0 +1,25 @@
+Principais arquivos do git 
+touch + nome
+git init 
+git status
+git --help
+git add
+git add .
+git commit -m "sua mensagem aqui"
+git diff
+git log
+touch senhas.txt
+touch .gitignore
+gita tag -a v1.0
+git config --global user.name
+git config --global user.email
+git config --list
+cd teste/
+cd + nome do arquivo
+cd ..
+mkdir + nome da pasta
+git clone + url do github
+git pull
+git push
+git branch
+git commit -m "index"
